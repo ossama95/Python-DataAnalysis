@@ -57,7 +57,7 @@ Pour répondre à la problématique, j'ai crée un script python qui automatise 
 
 1. Lancer [Jupiter](https://jupyter.org/install)  
 2. Ouvrir un nouveau fichier script  
-3. Copier la commande `git clone ` et lancer l'execution   
+3. Copier la commande `git clone https://github.com/ossama95/Python-DataAnalysis` et lancer l'execution   
 5. Ouvrez le script `Projet_Python_DataAnalysis.ipynb`  
 
 -----------------    
